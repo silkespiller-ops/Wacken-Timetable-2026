@@ -27,4 +27,4 @@
 25. Automatische Schriftverkleinerung bei vielen Bands 
 26. Bandsuche über alle Tage hinweg
 27. Band- und Programmupdate
-28. Notizstreifen auf Leerflächen hinzugefügt
+28. Notizlinien auf Leerflächen hinzugefügt
