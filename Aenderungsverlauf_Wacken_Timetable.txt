@@ -1,0 +1,29 @@
+Änderungsverlauf Wacken Timetable
+
+1. Wacken-Timetable als interaktives Widget (Bühnen/Tage, Merkliste) 
+2. Lineup-Abgleich mit offizieller Wacken-Seite 
+3. Schriftart auf Arial umstellen 
+4. Bandnamen in Balken zentrieren 
+5. Tab "Meine Auswahl" mit Tages-/Bühnenübersicht 
+6. Hinweis zu Querformat auf dem Handy 
+7. Linksbündige, kleinere Schrift für lange Namen 
+8. Datei erneut bereitgestellt (Handy-Anfrage) 
+9. Aktiven Tag hervorheben + Stundenstriche + Pausenzeiten in Auswahl 
+10. GitHub-Pages-Einrichtung (index.html, Hosting) 
+11. Lineup-Datenabgleich (Bleed From Within, weitere Korrekturen) 
+12. Schwarzer Hintergrund / weiße Schrift 
+13. Line-Up-Bandnamen aufgehellt 
+14. Zweizeilige/abgekürzte lange Bandnamen, dann Tap-Tooltip mit Merken-Button 
+15. localStorage für dauerhafte Auswahl 
+16. Datenabgleich Running Order (LGH weggelassen) 
+17. Welcome-To-The-Jungle-Bühne ergänzt, inkl. Vortage So–Di 
+18. Bugfix: wiederkehrende Acts pro Tag einzeln merkbar 
+19. Druckbares Faltheftchen (Notizbuch-Layout), Faltanleitung als Tab 
+20. Cover mit Bullenschädel-Illustration 
+21. So+Mo zusammengelegt, Notizen-Seite ergänzt 
+22. Falzmarken-Feintuning (mehrfach, nach deinen Fotos) 
+23. Doppelte Linien behoben 
+24. Text auf Do/Fr-Seite verschoben 
+25. Automatische Schriftverkleinerung bei vielen Bands 
+26. Bandsuche über alle Tage hinweg
+27. Band- und Programmupdate
